@@ -1,2 +1,3 @@
-This is a sample text file, text is ok. File updating 
+This is a sample text file, text is ok. File updating 
 Some new code changes updates.
+Updating directly on remote repo.
